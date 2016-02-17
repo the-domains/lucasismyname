@@ -1,0 +1,28 @@
+name: Lucasismyname
+favicon: null
+layout_spectrum: 0.6164766964502633
+typography_spectrum: 0.846288870787248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3003899136092514
+  lightness: 0.16232697712257504
+  saturation: 0.2119095684029162
+  rhythmicContrast: 0.07211070181801915
+purpose: []
