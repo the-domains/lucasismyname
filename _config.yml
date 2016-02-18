@@ -1,6 +1,6 @@
 name: Lucasismyname
 favicon: null
-layout_spectrum: 0.99764
+layout_spectrum: 0.4456
 typography_spectrum: 0.18607
 title: Lucas is my name
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
+    - '#273038'
+    - '#9ccb88'
+    - '#f3785a'
+    - '#82a778'
+    - '#41514c'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
