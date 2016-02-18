@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Design a Dope Resume  Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found o'
-datePublished: '2016-02-18T04:42:18.510Z'
-dateModified: '2016-02-18T04:42:02.571Z'
+datePublished: '2016-02-18T04:50:27.414Z'
+dateModified: '2016-02-18T04:42:21.582Z'
 author: []
 title: "Design a Dope Resume\_"
+sourcePath: _posts/2016-02-18-design-a-dope-resume.md
+published: true
 authors: []
 publisher:
   name: lucasismy.name
   domain: lucasismy.name
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-design-a-dope-resume.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
