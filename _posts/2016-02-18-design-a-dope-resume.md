@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Design a Dope Resume  Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found o'
-datePublished: '2016-02-18T05:13:36.310Z'
-dateModified: '2016-02-18T05:12:59.634Z'
+datePublished: '2016-02-18T05:13:52.058Z'
+dateModified: '2016-02-18T05:13:43.898Z'
 author: []
 title: "Design a Dope Resume\_"
 sourcePath: _posts/2016-02-18-design-a-dope-resume.md
