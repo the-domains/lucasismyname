@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://lucasismy.name/blog/2015/10/21/design-a-dope-resume/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Design a Dope Resume  Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found o'
-datePublished: '2016-02-18T05:10:16.010Z'
-dateModified: '2016-02-18T04:50:34.968Z'
+datePublished: '2016-02-18T05:13:36.310Z'
+dateModified: '2016-02-18T05:12:59.634Z'
 author: []
 title: "Design a Dope Resume\_"
 sourcePath: _posts/2016-02-18-design-a-dope-resume.md
