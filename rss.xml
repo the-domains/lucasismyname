@@ -4,11 +4,20 @@
         <description><![CDATA[Lucas is my name]]></description>
         <link>https://thegrid.ai/lucasismyname/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 15:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 15:45:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lucasismyname/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Event Graphics]]></title>
+            <description><![CDATA[<article><h1>Event Graphics</h1><p>Our second event, a Type Anatomy & Letterpress 
+Demonstration, I created a poster and web graphic to be distributed 
+around town, online, and over email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f11c918db1e9487cff7425985a236e017d4dd976.png"></article>]]></description>
+            <link>https://thegrid.ai/lucasismyname/test-test/index.html</link>
+            <guid isPermaLink="false">9dcd8a22-62ac-4286-92c4-e080113fa765</guid>
+            <pubDate>Thu, 18 Feb 2016 15:43:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Design a Dope Resume ]]></title>
-            <description><![CDATA[<article><h1>Design a Dope Resume </h1><h2>Gestalt Psychology </h2><p> Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found online. And who could blame you? You’re not a designer… </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/351af88fd9f6c82a6bfb1e3bd7ff94f7d759750e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Design a Dope Resume </h1><h2>Gestalt Psychology </h2><p> Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found online. And who could blame you? You’re not a designer… </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c295560e2f958d7b630878ebb7ebcebc67ae25e1.png"></article>]]></description>
             <link>https://thegrid.ai/lucasismyname/design-a-dope-resume/index.html</link>
             <guid isPermaLink="false">02e0c7e2-2ea4-4e4d-a7a9-6e4cbb1b8ee5</guid>
             <pubDate>Thu, 18 Feb 2016 15:43:43 GMT</pubDate>
@@ -19,15 +28,6 @@
             <link>http://www.theverge.com/2016/2/17/11033934/microsoft-wireless-display-adapter</link>
             <guid isPermaLink="false">dc56dfcd-8f3b-4b23-98b8-93ecaefb72e0</guid>
             <pubDate>Thu, 18 Feb 2016 05:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Event Graphics]]></title>
-            <description><![CDATA[<article><h1>Event Graphics</h1><p>Our second event, a Type Anatomy & Letterpress 
-Demonstration, I created a poster and web graphic to be distributed 
-around town, online, and over email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f11c918db1e9487cff7425985a236e017d4dd976.png"></article>]]></description>
-            <link>https://thegrid.ai/lucasismyname/test-test/index.html</link>
-            <guid isPermaLink="false">9dcd8a22-62ac-4286-92c4-e080113fa765</guid>
-            <pubDate>Thu, 18 Feb 2016 04:47:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
