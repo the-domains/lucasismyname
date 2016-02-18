@@ -4,16 +4,23 @@
         <description><![CDATA[Lucas is my name]]></description>
         <link>https://thegrid.ai/lucasismyname/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 04:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 04:42:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lucasismyname/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Event Graphics]]></title>
             <description><![CDATA[<article><h1>Event Graphics</h1><p>Our second event, a Type Anatomy & Letterpress 
 Demonstration, I created a poster and web graphic to be distributed 
-around town, online, and over email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/884802cb817ac9de87b5c05fa0bdca9abb38c0a3.png"></article>]]></description>
+around town, online, and over email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7376fa7b99cd0f58d3e9edf0aad73bf4ac456a38.png"></article>]]></description>
             <link>https://thegrid.ai/lucasismyname/test-test/index.html</link>
             <guid isPermaLink="false">9dcd8a22-62ac-4286-92c4-e080113fa765</guid>
             <pubDate>Thu, 18 Feb 2016 04:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design a Dope Resume ]]></title>
+            <description><![CDATA[<article><h1>Design a Dope Resume </h1><h2>Gestalt Psychology </h2><p> Alright, you have a resume, and chances are it looks pretty bad. That’s okay—I don’t blame you—it’s likely you used a template you found online. And who could blame you? You’re not a designer… </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f62ab438a4a75921ab7fbd816f586d8f0763f24.png"></article>]]></description>
+            <link>http://lucasismy.name/blog/2015/10/21/design-a-dope-resume/</link>
+            <guid isPermaLink="false">02e0c7e2-2ea4-4e4d-a7a9-6e4cbb1b8ee5</guid>
+            <pubDate>Thu, 18 Feb 2016 04:42:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
