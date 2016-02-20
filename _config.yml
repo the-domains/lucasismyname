@@ -1,6 +1,6 @@
 name: Lucasismyname
 favicon: null
-layout_spectrum: 0.91478
+layout_spectrum: 0.72323
 typography_spectrum: 0.46513
 title: Lucas is my name
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
